@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "链接标题后台提取器‑单Tab复用版",
+  "version": "1.4",
+  "description": "复用单个标签页跳转，标题截取第一个|之前内容，全部操作在扩展选项页，技术演示",
+  "permissions": ["tabs", "scripting", "storage"],
+  "host_permissions": [
+    "https://www.touchgal.ink/*",
+    "https://www.kaogal.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "options_page": "options.html",
+  "action": {
+    "default_title": "右键扩展图标 → 打开扩展选项执行任务"
+  }
+}
