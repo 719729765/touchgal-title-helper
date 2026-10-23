@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8a4f110e-d51b-448f-aebf-a6ab929acf3a" />
+
+
 # touchgal-title-helper
 
 **Chrome Manifest V3 浏览器扩展：TouchGal 链接批量标题提取工具**
